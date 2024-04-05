@@ -16,7 +16,7 @@ employee ={
     'location':"addis ababa"
 }
 print(employee)
-print("before changing the key value")
+print("before changing the key value right")
 
 print(employee['name'])
 print("changed key value from daniel to natnael")
