@@ -9,7 +9,7 @@ my_func()
 def addNum(num1,num2):
     return  num1+num2
 #result = addNum(20,30)
-result = addNum("20","30")
+result = addNum("20","40")
 
 #print(type(result))
 # let's us if statement to check the validation
